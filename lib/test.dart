@@ -36,6 +36,8 @@ class _TestState extends State<Test> {
               Icon(Icons.star),
               Icon(Icons.star),
               Icon(Icons.star),
+              Icon(Icons.star),
+              Icon(Icons.star),
             ],
           )
         ],
